@@ -9,3 +9,7 @@ FastAPI <br>
 Pydantic <br>
 PostgreSQL <br>
 SQLAlchemy <br>
+
+## Progress till now
+Phase 1 - ongoing  <br>
+    I am still learning how to use the tools of this tech stack.
